@@ -77,4 +77,14 @@ footer {
   padding: 20px;
   background-color: #050508;
   border-top: 1px solid #7c3aed;
+}.barra {
+  background: #222;
+  border-radius: 10px;
+  margin-bottom: 15px;
+}
+
+.progresso {
+  height: 10px;
+  background: #7c3aed;
+  border-radius: 10px;
 }
