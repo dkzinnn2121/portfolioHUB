@@ -5,7 +5,7 @@ Sou um desenvolvedor apaixonado por resolver problemas através do código, com 
 ### Sobre mim
 -  Desenvolvendo projetos em **C** e **C++**.
 -  Tenho interesse em temas de Física e Engenharia, aplicando conceitos de estática e eletricidade em lógica de software.
--  Confira meu portfólio completo aqui: (https://dkzinnn2121.github.io/portfolioHUB/)
+-  Confira meu portfólio completo aqui: (https://dkzinnn2121.github.io/portfolioHUB/portfolio-web/)
 
 ### Tecnologias e Ferramentas
 - Linguagens: C, C++
