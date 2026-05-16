@@ -1,11 +1,3 @@
-# Olá, eu sou o Francisco Rafael! 👋
-
-Sou um desenvolvedor apaixonado por resolver problemas através do código, com foco em C, C++ e engenharia. Atualmente, estou concentrado em expandir meu portfólio técnico e aprofundar meus conhecimentos em lógica de programação e simulações físicas.
-
-### Sobre mim
--  Desenvolvendo projetos em **C** e **C++**.
--  Tenho interesse em temas de Física e Engenharia, aplicando conceitos de estática e eletricidade em lógica de software.
--  Confira meu portfólio completo aqui: (https://dkzinnn2121.github.io/portfolioHUB/portfolio-web/)
 
 ### Tecnologias e Ferramentas
 - Linguagens: C, C++
@@ -14,7 +6,7 @@ Sou um desenvolvedor apaixonado por resolver problemas através do código, com 
 
 ### Projetos em Destaque
 - Conversor de Unidades: Um projeto robusto em C/C++ focado em conversões térmicas e de medidas para aplicações técnicas.
-- PortfolioHUB:** Centralizador de projetos e currículo web.
+- PortfolioHUB: Centralizador de projetos e currículo web.
 
 ### Como me encontrar
 - [LinkedIn](https://www.linkedin.com/in/frafaelxlz/)
